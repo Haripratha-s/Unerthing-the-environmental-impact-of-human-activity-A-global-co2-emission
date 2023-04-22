@@ -1,0 +1,180 @@
+# Query: story
+# ContextLines: 1
+
+126 results - 14 files
+
+Co2 Emission Analysis\index.html:
+   53                      <li><a class="nav-link scrollto" href="#dash">Dashboard</a></li>
+   54:                     <li><a class="nav-link scrollto" href="#services">Story</a></li>
+   55                      <li><a class="nav-link scrollto" href="#portfolio">Visualizations</a></li>
+
+  169                      <div class="section-title">
+  170:                         <h2>Story</h2>
+  171                      </div><div class='tableauPlaceholder' id='viz1682164583229' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;st&#47;story_16821645871780&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='story_16821645871780&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;st&#47;story_16821645871780&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1682164583229');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+  173                      <div class='tableauPlaceholder' id='viz1672206123585' style='position: relative'>
+  174:                         <noscript><a href='#'><img alt='CO2 Emission Story ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;G4&#47;G4Q8N94F4&#47;1_rss.png' style='border: none' /></a>
+  175                    </noscript><object class='tableauViz' style='display:none;'>
+
+Co2 Emission Analysis\assets\vendor\bootstrap-icons\bootstrap-icons.css:
+  424  .bi-clock-fill::before { content: "\f291"; }
+  425: .bi-clock-history::before { content: "\f292"; }
+  426  .bi-clock::before { content: "\f293"; }
+
+Co2 Emission Analysis\assets\vendor\bootstrap-icons\bootstrap-icons.json:
+  403    "clock-fill": 62097,
+  404:   "clock-history": 62098,
+  405    "clock": 62099,
+
+Co2 Emission Analysis\assets\vendor\boxicons\css\boxicons.css:
+  2364    }
+  2365:   .bx-history:before {
+  2366      content: "\eb10";
+
+Co2 Emission Analysis\assets\vendor\boxicons\css\boxicons.min.css:
+  1: ⟪ 29079 characters skipped ⟫eb0a"}.bx-heart-circle:before{content:"\eb0b"}.bx-heart-square:before{content:"\eb0c"}.bx-help-circle:before{content:"\eb0d"}.bx-hide:before{content:"\eb0e"}.bx-highlight:before{content:"\eb0f"}.bx-history:before{content:"\eb10"}.bx-hive:before{content:"\eb11"}.bx-home:before{content:"\eb12"}.bx-home-alt:before{content:"\eb13"}.bx-home-circle:before{content:"\eb14"}.bx-home-heart:before{content:"\eb15"}.bx-home-smile:before{content:"\eb16"}.bx-horizontal-center:before{content:"\eb17"}.bx-hotel:before{content:"\eb18"}.bx-hourglass:before{content:"\eb19"}.bx-id-card:before{content:"\eb1a"}.bx-image:before{content:"\eb1b"}.bx-image-add:before{content:"\eb1c"}.bx-image-alt:before{content:"\eb1d"}.bx-images:before{content:"\eb1e"}.bx-import:before{content:"\eb1f"}.bx-infinite:before{content:"\eb20"}.bx-info-circle:before{content:"\eb21"}.bx-info-square:before{content:"\eb22"}.bx-intersect:before{content:"\eb23"}.bx-italic:before{content:"\eb24"}.bx-joystick:before{content:"\eb25"}.bx-joystick-alt:before{content:"\eb26"}.bx-joystick-button:before{content:"\eb27"}.bx-key:before{content:"\eb28"}.bx-label:before{content:"\eb29"}.bx-landscape:before{content:"\eb2a"}.bx-laptop:before{content:
+
+Co2 Emission Analysis\assets\vendor\boxicons\fonts\boxicons.svg:
+  553  <glyph unicode="&#xeb0f;" glyph-name="bx-highlight" data-tags="bx-highlight" d="M883.499 711.424l-150.827 150.741c-7.716 7.729-18.383 12.511-30.166 12.511-11.656 0-22.219-4.678-29.914-12.26l0.005 0.005-369.835-364.075c-5.601-5.546-9.687-12.611-11.588-20.528l-0.060-0.294-43.691-189.312-76.757-96.213h120.661l48.725 48.171 153.088 35.328c7.68 1.792 14.72 5.675 20.352 11.179l369.792 364.16c7.859 7.743 12.728 18.503 12.728 30.399 0 11.791-4.783 22.465-12.514 30.187v0zM483.755 377.216l-90.496 90.453 309.035 304.256 90.453-90.453-308.992-304.256zM170.667 106.667h682.667v-85.333h-682.667z" />
+  554: <glyph unicode="&#xeb10;" glyph-name="bx-history" data-tags="bx-history" d="M512 618.667v-213.333h213.333v85.333h-128v128zM908.459 597.461c-20.315 47.478-48.074 88.009-82.254 122.104l-0.008 0.008c-51.537 51.537-117.649 88.499-191.623 104.173l-2.511 0.445c-23.255 4.955-49.973 7.792-77.355 7.792s-54.1-2.837-79.877-8.234l2.523 0.442c-76.548-16.016-142.714-53.015-194.21-104.653l-0.009-0.009c-34.098-34.13-61.842-74.616-81.298-119.528l-0.964-2.499c-19.098-43.962-30.208-95.169-30.208-148.97 0-0.188 0-0.375 0-0.562v0.029l0.043-1.067h-85.376l128-169.6 128 169.6h-85.291l-0.043 1.067c0 0.182-0.001 0.397-0.001 0.613 0 62.082 19.059 119.713 51.645 167.36l-0.658-1.018c21.855 32.024 48.673 58.857 79.651 80.058l1.032 0.667c30.47 20.79 66.28 36.406 104.829 44.62l1.965 0.351c18.090 3.893 38.872 6.122 60.175 6.122 143.653 0 263.629-101.376 292.289-236.489l0.347-1.953c3.838-18.112 6.036-38.922 6.036-60.245s-2.198-42.134-6.379-62.216l0.343 1.971c-8.448-40.523-24.078-76.35-45.625-107.806l0.654 1.011c-10.667-15.829-22.912-30.72-36.437-44.203-26.56-26.528-58.054-48.124-92.9
+  555  <glyph unicode="&#xeb11;" glyph-name="bx-hive" data-tags="bx-hive" d="M891.52 637.739l-85.333 170.667c-7.17 14.1-21.57 23.592-38.186 23.595h-213.334c-16.171 0-30.933-9.131-38.187-23.595l-73.515-147.072h-186.965c-16.171 0-30.933-9.131-38.187-23.595l-85.333-170.667c-2.844-5.562-4.511-12.133-4.511-19.093s1.667-13.531 4.622-19.335l-0.112 0.242 85.333-170.667c7.253-14.421 22.016-23.552 38.187-23.552h186.965l73.557-147.072c7.137-14.098 21.516-23.595 38.114-23.595 0.011 0 0.021 0 0.032 0h213.332c16.171 0 30.933 9.131 38.187 23.595l85.333 170.667c2.844 5.562 4.511 12.133 4.511 19.093s-1.667 13.531-4.622 19.335l0.112-0.242-75.819 151.552 75.776 151.595c2.851 5.568 4.521 12.146 4.521 19.115 0 6.935-1.655 13.484-4.59 19.272l0.112-0.243zM581.035 746.667h160.597l64-128-64-128h-160.597l-64 128 64 128zM218.368 448l64 128h160.597l64-128-64-128h-160.597l-64 128zM741.632 149.333h-160.597l-64 128 64 128h160.597l64-128-64-128z" />
+
+Co2 Emission Analysis\assets\vendor\isotope-layout\isotope.pkgd.js:
+  3045      // keep of track of sortBys
+  3046:     this.sortHistory = [ 'original-order' ];
+  3047      // create from registered layout modes
+
+  3348      }
+  3349:     // keep track of sortBy History
+  3350      var sortBys = utils.makeArray( this.options.sortBy );
+  3351      if ( !this._getIsSameSortBy( sortBys ) ) {
+  3352:       // concat all sortBy and sortHistory, add to front, oldest goes in last
+  3353:       this.sortHistory = sortBys.concat( this.sortHistory );
+  3354      }
+  3355      // sort magic
+  3356:     var itemSorter = getItemSorter( this.sortHistory, this.options.sortAscending );
+  3357      this.filteredItems.sort( itemSorter );
+
+  3359  
+  3360:   // check if sortBys is same as start of sortHistory
+  3361    proto._getIsSameSortBy = function( sortBys ) {
+  3362      for ( var i=0; i < sortBys.length; i++ ) {
+  3363:       if ( sortBys[i] != this.sortHistory[i] ) {
+  3364          return false;
+
+Co2 Emission Analysis\assets\vendor\isotope-layout\isotope.pkgd.min.js:
+  10  
+  11: ⟪ 29955 characters skipped ⟫.Item=s,d.LayoutMode=r;var l=d.prototype;l._create=function(){this.itemGUID=0,this._sorters={},this._getSorters(),e.prototype._create.call(this),this.modes={},this.filteredItems=this.items,this.sortHistory=["original-order"];for(var t in r.modes)this._initLayoutMode(t)},l.reloadItems=function(){this.itemGUID=0,e.prototype.reloadItems.call(this)},l._itemize=function(){for(var t=e.prototype._itemize.apply(this,arguments),i=0;i<t.length;i++){var o=t[i];o.id=this.itemGUID++}return this._updateItemsSortData(t),t},l._initLayoutMode=function(t){var e=r.modes[t],i=this.options[t]||{};this.options[t]=e.options?n.extend(e.options,i):i,this.modes[t]=new e(this)},l.layout=function(){return!this._isLayoutInited&&this._getOption("initLayout")?void this.arrange():void this._layout()},l._layout=function(){var t=this._getIsInstant();this._resetLayout(),this._manageStamps(),this.layoutItems(this.filteredItems,t),this._isLayoutInited=!0},l.arrange=function(t){this.option(t),this._getIsInstant();var e=this._filter(this.items);this.filteredItems=e.matches,this._bindArrangeComplete(),this._isInstant?this._noTransition(this._hideReveal,[e]):this._hideReveal(e),this._sort(),this._layout()},l._init=l.arran
+  12: ⟪ 837 characters skipped ⟫unction(t){return parseInt(t,10)},parseFloat:function(t){return parseFloat(t)}},l._sort=function(){if(this.options.sortBy){var t=n.makeArray(this.options.sortBy);this._getIsSameSortBy(t)||(this.sortHistory=t.concat(this.sortHistory));var e=a(this.sortHistory,this.options.sortAscending);this.filteredItems.sort(e)}},l._getIsSameSortBy=function(t){for(var e=0;e<t.length;e++)if(t[e]!=this.sortHistory[e])return!1;return!0},l._mode=function(){var t=this.options.layoutMode,e=this.modes[t];if(!e)throw new Error("No layout mode: "+t);return e.options=this.options[t],e},l._resetLayout=function(){e.prototype._resetLayout.call(this),this._mode()._resetLayout()},l._getItemLayoutPosition=function(t){return this._mode()._getItemLayoutPosition(t)},l._manageStamp=function(t){this._mode()._manageStamp(t)},l._getContainerSize=function(){return this._mode()._getContainerSize()},l.needsResizeLayout=function(){return this._mode().needsResizeLayout()},l.appended=function(t){var e=this.addItems(t);if(e.length){var i=this._filterRevealAdded(e);this.filteredItems=this.filteredItems.concat(i)}},l.prepended=function(t){var e=this._itemize(t);if(e.length){this._resetLayout(),this._manageStamps();var i=this._filterRevealAdded(e);this.layoutItems(this.filteredItems),this.filteredItems=i.concat(this.filteredItems),this.items=e.concat(this.items)}},l._filterRevealAdded=function(t){var e=this._filter(t);r
+
+Co2 Emission Analysis\assets\vendor\remixicon\remixicon.css:
+   396  .ri-chat-heart-line:before { content: "\eb5f"; }
+   397: .ri-chat-history-fill:before { content: "\eb60"; }
+   398: .ri-chat-history-line:before { content: "\eb61"; }
+   399  .ri-chat-new-fill:before { content: "\eb62"; }
+
+   785  .ri-file-gif-line:before { content: "\ece4"; }
+   786: .ri-file-history-fill:before { content: "\ece5"; }
+   787: .ri-file-history-line:before { content: "\ece6"; }
+   788  .ri-file-hwp-fill:before { content: "\ece7"; }
+
+   912  .ri-folder-forbid-line:before { content: "\ed63"; }
+   913: .ri-folder-history-fill:before { content: "\ed64"; }
+   914: .ri-folder-history-line:before { content: "\ed65"; }
+   915  .ri-folder-info-fill:before { content: "\ed66"; }
+
+  1090  .ri-heavy-showers-line:before { content: "\ee15"; }
+  1091: .ri-history-fill:before { content: "\ee16"; }
+  1092: .ri-history-line:before { content: "\ee17"; }
+  1093  .ri-home-2-fill:before { content: "\ee18"; }
+
+Co2 Emission Analysis\assets\vendor\remixicon\remixicon.less:
+   397  .ri-chat-heart-line:before { content: "\eb5f"; }
+   398: .ri-chat-history-fill:before { content: "\eb60"; }
+   399: .ri-chat-history-line:before { content: "\eb61"; }
+   400  .ri-chat-new-fill:before { content: "\eb62"; }
+
+   786  .ri-file-gif-line:before { content: "\ece4"; }
+   787: .ri-file-history-fill:before { content: "\ece5"; }
+   788: .ri-file-history-line:before { content: "\ece6"; }
+   789  .ri-file-hwp-fill:before { content: "\ece7"; }
+
+   913  .ri-folder-forbid-line:before { content: "\ed63"; }
+   914: .ri-folder-history-fill:before { content: "\ed64"; }
+   915: .ri-folder-history-line:before { content: "\ed65"; }
+   916  .ri-folder-info-fill:before { content: "\ed66"; }
+
+  1091  .ri-heavy-showers-line:before { content: "\ee15"; }
+  1092: .ri-history-fill:before { content: "\ee16"; }
+  1093: .ri-history-line:before { content: "\ee17"; }
+  1094  .ri-home-2-fill:before { content: "\ee18"; }
+
+Co2 Emission Analysis\assets\vendor\remixicon\remixicon.svg:
+  1072        horiz-adv-x="1200" d="M322.75 250L100 75V1000A50 50 0 0 0 150 1050H1050A50 50 0 0 0 1100 1000V300A50 50 0 0 0 1050 250H322.75zM200 280.7499999999999L288.15 350H1000V950H200V280.7500000000001zM600.9000000000001 465L432.9500000000001 633A112.5 112.5 0 0 0 592.0500000000001 792.1L600.9000000000001 783.25L609.75 792.1A112.5 112.5 0 0 0 768.85 633L600.85 465.05z" />
+  1073:     <glyph glyph-name="chat-history-fill"
+  1074        unicode="&#xEB60;"
+  1075        horiz-adv-x="1200" d="M600 1100C876.15 1100 1100 876.15 1100 600S876.15 100 600 100C514.9 100 434.75 121.25 364.6 158.75L100 100L158.8 364.5C121.3 434.7000000000001 100 514.85 100 600C100 876.15 323.85 1100 600 1100zM650 850H550V500H850V600H650V850z" />
+  1076:     <glyph glyph-name="chat-history-line"
+  1077        unicode="&#xEB61;"
+
+  2239        horiz-adv-x="1200" d="M800 1100L1050 850V150.3499999999999C1050 122.55 1027.75 99.9999999999998 1000.35 99.9999999999998H199.65C172.25 100 150 122.75 150 149.6000000000001V1050.4C150 1077.8 172.35 1100 199.95 1100H800zM750 1000H250V200H950V800H750V1000zM650 700V450H600V700H650zM550 700V650H450C422.4000000000001 650 400 627.6 400 600V550C400 522.4 422.4000000000001 500 450 500H500V550H450V600H550V500C550 472.4 527.6 450 500 450H450C394.75 450 350 494.75 350 550V600C350 655.25 394.75 700 450 700H550zM850 700V650H750V600H850V550H750V450H700V700H850z" />
+  2240:     <glyph glyph-name="file-history-fill"
+  2241        unicode="&#xECE5;"
+  2242        horiz-adv-x="1200" d="M800 1100L1050 850.05V149.55C1050 122.2000000000001 1027.75 100 1000.35 100H199.65C172.25 100 150 122.75 150 149.6000000000001V1050.4C150 1077.8 172.25 1100 199.65 1100H800zM650 750H550V450H800V550H650V750z" />
+  2243:     <glyph glyph-name="file-history-line"
+  2244        unicode="&#xECE6;"
+
+  2620        horiz-adv-x="1200" d="M1100 637.25A348.6 348.6 0 0 1 1000 685.5V850H579.3000000000001L479.3 950H200V250H564.5C575.25 213.9 591.6499999999999 180.1999999999999 612.75 150H150A50 50 0 0 0 100 200V1000A50 50 0 0 0 150 1050H520.6999999999999L620.6999999999999 950H1050A50 50 0 0 0 1100 900V637.25zM900 100A250 250 0 1 0 900 600A250 250 0 0 0 900 100zM835.35 214.6000000000001A150 150 0 0 1 1035.4 414.6500000000001L835.35 214.6500000000001zM764.6000000000001 285.35L964.65 485.35A150 150 0 0 1 764.6000000000001 285.3z" />
+  2621:     <glyph glyph-name="folder-history-fill"
+  2622        unicode="&#xED64;"
+  2623        horiz-adv-x="1200" d="M520.6999999999999 1050L620.6999999999999 950H1050C1077.6 950 1100 927.6 1100 900V200C1100 172.4000000000001 1077.6 150 1050 150H150C122.4 150 100 172.4000000000001 100 200V1000C100 1027.6 122.4 1050 150 1050H520.6999999999999zM650 750H550V450H800V550H650V750z" />
+  2624:     <glyph glyph-name="folder-history-line"
+  2625        unicode="&#xED65;"
+
+  3154        horiz-adv-x="1200" d="M250 353.5A400 400 0 1 0 822.8999999999999 845.05A275 275 0 0 0 950 310.35V416.85A175 175 0 1 1 750 697.45V700A300 300 0 1 1 250 476.4V353.5zM350 500H450V200H350V500zM750 500H850V200H750V500zM550 350H650V50H550V350z" />
+  3155:     <glyph glyph-name="history-fill"
+  3156        unicode="&#xEE16;"
+  3157        horiz-adv-x="1200" d="M600 1100C876.15 1100 1100 876.15 1100 600S876.15 100 600 100S100 323.85 100 600H200C200 379.1 379.1 200 600 200S1000 379.1 1000 600S820.9 1000 600 1000C476.8 1000 366.6 944.3 293.25 856.75L400 750H100V1050L222.35 927.7C314 1033.2 449.2 1100 600 1100zM650 850V620.75L812.15 458.5999999999999L741.4 387.8499999999999L550 579.35V850H650z" />
+  3158:     <glyph glyph-name="history-line"
+  3159        unicode="&#xEE17;"
+
+Co2 Emission Analysis\assets\vendor\remixicon\remixicon.symbol.svg:
+  1763      </g>
+  1764: </symbol><symbol viewBox="0 0 24 24" id="ri-chat-history-fill">
+  1765      <g>
+
+  1768      </g>
+  1769: </symbol><symbol viewBox="0 0 24 24" id="ri-chat-history-line">
+  1770      <g>
+
+  3706      </g>
+  3707: </symbol><symbol viewBox="0 0 24 24" id="ri-file-history-fill">
+  3708      <g>
+
+  3711      </g>
+  3712: </symbol><symbol viewBox="0 0 24 24" id="ri-file-history-line">
+  3713      <g>
+
+  4341      </g>
+  4342: </symbol><symbol viewBox="0 0 24 24" id="ri-folder-history-fill">
+  4343      <g>
+
+  4346      </g>
+  4347: </symbol><symbol viewBox="0 0 24 24" id="ri-folder-history-line">
+  4348      <g>
+
+  5231      </g>
+  5232: </symbol><symbol viewBox="0 0 24 24" id="ri-history-fill">
+  5233      <g>
+
+  5236      </g>
+  5237: </symbol><symbol viewBox="0 0 24 24" id="ri-history-line">
+  5238      <g>
+
+Co2 Emission Analysis\assets\vendor\swiper\swiper-bundle.min.js:
+  12  
+  13: ⟪ 951 characters skipped ⟫st e="undefined"!=typeof document?document:{};return t(e,s),e}const i={document:s,navigator:{userAgent:""},location:{hash:"",host:"",hostname:"",href:"",origin:"",pathname:"",protocol:"",search:""},history:{replaceState(){},pushState(){},go(){},back(){}},CustomEvent:function(){return this},addEventListener(){},removeEventListener(){},getComputedStyle:()=>({getPropertyValue:()=>""}),Image(){},Date(){},screen:{},setTimeout(){},clearTimeout(){},matchMedia:()=>({}),requestAnimationFrame:e=>"undefined"==typeof setTimeout?(e(),null):setTimeout(e,0),cancelAnimationFrame(e){"undefined"!=typeof setTimeout&&clearTimeout(e)}};function r(){const e="undefined"!=typeof window?window:{};return t(e,i),e}class n extends Array{constructor(e){"number"==typeof e?super(e):(super(...e||[]),function(e){const t=e.__proto__;Object.defineProperty(e,"__proto__",{get:()=>t,set(e){t.__proto__=e}})}(this))}}function l(e){void 0===e&&(e=[]);const t=[];return e.forEach((e=>{Array.isArray(e)?t.push(...l(e)):t.push(e)})),t}function o(e,t){return Array.prototype.filter.call(e,t)}function d(e,t){const s=r(),i=a();let l=[];if(!t&&e instanceof n)return e;if(!e)return new n(l);if("string"==typeof e){const s=e.trim();if(⟪ 115913 characters skipped ⟫n.$el.off("keydown",U(t.params.pagination.bulletClass),m),t.$el.off("focus",x,!0),t.$el.off("pointerdown",w,!0),t.$el.off("pointerup",b,!0)}()}))},function(e){let{swiper:t,extendParams:s,on:a}=e;s({history:{enabled:!1,root:"",replaceState:!1,key:"slides",keepQuery:!1}});let i=!1,n={};const l=e=>e.toString().replace(/\s+/g,"-").replace(/[^\w-]+/g,"").replace(/--+/g,"-").replace(/^-+/,"").replace(/-+$/,""),o=e=>{const t=r();let s;s=e?new URL(e):t.location;const a=s.pathname.slice(1).split("/").filter((e=>""!==e)),i=a.length;return{key:a[i-2],value:a[i-1]}},d=(e,s)=>{const a=r();if(!i||!t.params.history.enabled)return;let n;n=t.params.url?new URL(t.params.url):a.location;const o=t.slides.eq(s);let d=l(o.attr("data-history"));if(t.params.history.root.length>0){let s=t.params.history.root;"/"===s[s.length-1]&&(s=s.slice(0,s.length-1)),d=`${s}/${e}/${d}`}else n.pathname.includes(e)||(d=`${e}/${d}`);t.params.history.keepQuery&&(d+=n.search);const c=a.history.state;c&&c.value===d||(t.params.history.replaceState?a.history.replaceState({value:d},null,d):a.history.pushState({value:d},null,d))},c=(e,s,a)=>{if(s)for(let i=0,r=t.slides.length;i<r;i+=1){const r=t.slides.eq(i);if(l(r.attr("data-history"))===s&&!r.hasClass(t.params.slideDuplicateClass)){const s=r.index();t.slideTo(s,e,a)}}else t.slideTo(0,e,a)},p=()=>{n=o(t.params.url),c(t.params.speed,n.value,!1)};a("init",(()=>{t.params.history.enabled&&(()=>{const e=r();if(t.params.history){if(!e.history||!e.history.pushState)return t.params.history.enabled=!1,void(t.params.hashNavigation.enabled=!0);i=!0,n=o(t.params.url),(n.key||n.value)&&(c(0,n.value,t.params.runCallbacksOnInit),t.params.history.replaceState||e.addEventListener("popstate",p))}})()})),a("destroy",(()=>{t.params.history.enabled&&(()=>{const e=r();t.params.history.replaceState||e.removeEventListener("popstate",p)})()})),a("transitionEnd _freeModeNoMomentumRelease",(()=>{i&&d(t.params.history.key,t.activeIndex)})),a("slideChange",(()=>{i&&t.params.cssMode&&d(t.params.history.key,t.activeIndex)}))},function(e){let{swiper:t,extendParams:s,emit:i,on:n}=e,l=!1;const o=a(),c=r();s({hashNavigation:{enabled:!1,replaceState:!1,watchState:!1}});const p=()=>{i("hashChange");const e=o.location.hash.replace("#","");if(e!==t.slides.eq(t.activeIndex).attr("data-hash")){const s=t.$wrapperEl.children(`.${t.params.slideClass}[data-hash="${e}"]`).index();if(void 0===s)return;t.slideTo(s)}},u=()=>{if(l&&t.params.hashNavigation.enabled)if(t.params.hashNavigation.replaceState&&c.history&&c.history.replaceState)c.history.replaceState(null,null,`#${t.slides.eq(t.activeIndex).attr("data-hash")}`||""),i("hashSet");else{const e=t.slides.eq(t.activeIndex),s=e.attr("data-hash")||e.attr("data-history");o.location.hash=s||"",i("hashSet")}};n("init",(()=>{t.params.hashNavigation.enabled&&(()=>{if(!t.params.hashNavigation.enabled||t.params.history&&t.params.history.enabled)return;l=!0;const e=o.location.hash.replace("#","");if(e){const s=0;for(let a=0,i=t.slides.length;a<i;a+=1){const i=t.slides.eq(a);if((i.attr("data-hash")||i.attr("data-history"))===e&&!i.hasClass(t.params.slideDuplicateClass)){const e=i.index();t.slideTo(e,s,t.params.runCallbacksOnInit,!0)}}}t.params.hashNavigation.watchState&&d(c).on("hashchange",p)})()})),n("destroy",(()=>{t.params.hashNavigation.enabled&&t.params.hashNavigation.watchState&&d(c).off("hashchange",p)})),n("transitionEnd _freeModeNoMomentumRelease",(()=>{l&&u()})),n("slideChange",(()=>{l&&t.params.cssMode&&u()}))},function(e){let t,{swiper:s,extendParams:i,on:r,emit:n}=e;function l(){if(!s.size)return s.autoplay.running=!1,void(s.autoplay.paused=!1);const e=s.slides.eq(s.activeIndex);let a=s.params.autoplay.delay;e.attr("data-swiper-autoplay")&&(a=e.attr("data-swiper-autoplay")||s.params.autoplay.delay),clearTimeout(t),t=p((()=>{let e;s.params.autoplay.reverseDirection?s.params.loop?(s.loopFix(),e=s.slidePrev(s.params.speed,!0,!0),n("autoplay")):s.isBeginning?s.params.autoplay.stopOnLastSlide?d():(e=s.slideTo(s.slides.length-1,s.params.speed,!0,!0),n("autoplay")):(e=s.slidePrev(s.params
+  14  //# sourceMappingURL=swiper-bundle.min.js.map
+
+Co2 Emission Analysis\assets\vendor\swiper\swiper-bundle.min.js.map:
+  1: ⟪ 392 characters skipped ⟫mentsByTagName","createElementNS","importNode","location","hash","host","hostname","href","origin","pathname","protocol","search","getDocument","doc","document","ssrWindow","navigator","userAgent","history","replaceState","pushState","go","back","CustomEvent","this","getComputedStyle","getPropertyValue","Image","Date","screen","setTimeout","clearTimeout","matchMedia","requestAnimationFrame","callback","cancelAnimationFrame","id","getWindow","win","window","Dom7","Array","items","super","proto","__proto__","defineProperty","get","set","value","makeReactive","arrayFlat","arr","res","el","isArray","push","arrayFilter","prototype","filter","call","$","selector","context","html","trim","indexOf","toCreate","tempParent","innerHTML","i","a","qsa","nodeType","uniqueArray","arrayUnique","fn","Methods","addClass","_len","arguments","classes","_key","classNames","map","c","split","classList","add","removeClass","_len2","_key2","remove","hasClass","_len4","_key4","className","contains","toggleClass","_len3","_key3","toggle","attr","attrs","getAttribute","attrName","removeAttr","removeAttribute","transform","duration","transitionDuration","on","_len5","args","_key5","eventType","targetSelector"⟪ 15524 characters skipped ⟫inerEl","repeat","round","random","live","addElLive","updateNavigation","bulletEl","updatePagination","root","keepQuery","paths","slugify","getPathValues","urlOverride","URL","pathArray","part","setHistory","currentState","state","scrollToSlide","setHistoryPopState","hashNavigation","watchState","onHashChange","newHash","setHash","$activeSlideEl","autoplayResult","reverseDirection","stopOnLastSlide","pause","waitForTransition","onVisibilityChange","visibilityState","onMouseEnter","disableOnInteraction","onMouseLeave","pauseOnMouseEnter","thumbs","multipleActiveThumbs","autoScrollOffset","slideThumbActiveClass","thumbsContainerClass","swiperCreated","onThumbClick","thumbsSwiper","currentIndex","thumbsParams","SwiperClass","thumbsSwiperParams","thumbsToActivate","thumbActiveClass","useOffset","newThumbsIndex","currentThumbsIndex","prevThumbsIndex","nextThumbsIndex","momentum","momentumRatio","momentumBounce","momentumBounceRatio","momentumVelocityRatio","minimumVelocity","lastMoveEvent","pop","velocityEvent","distance","momentumDistance","newPosition","afterBouncePosition","doBounce","bounceAmount","needsLoopFix","moveDistance","currentSlideSize","slidesNumberEvenToRows","slidesPerRow","numFullColumns","newSlideOrderIndex","column","r⟪ 4015 characters skipped ⟫rollbar.js","../src/modules/parallax/parallax.js","../src/modules/zoom/zoom.js","../src/modules/lazy/lazy.js","../src/modules/controller/controller.js","../src/modules/a11y/a11y.js","../src/modules/history/history.js","../src/modules/hash-navigation/hash-navigation.js","../src/modules/autoplay/autoplay.js","../src/modules/thumbs/thumbs.js","../src/modules/free-mode/free-mode.js","../src/modules/grid/grid.js","../src/modules/manipulation/manipulation.js","../src/modules/effect-fade/effect-fade.js","../src/modules/effect-cube/effect-cube.js","../src/modules/effect-flip/effect-flip.js","../src/modules/effect-coverflow/effect-coverflow.js","../src/modules/effect-creative/effect-creative.js","../src/modules/effect-cards/effect-cards.js"],"sourcesContent":["/**\n * SSR Window 4.0.2\n * Better handling for window object in SSR environment\n * https://github.com/nolimits4web/ssr-window\n *\n * Copyright 2021, Vladimir Kharlampidi\n *\n * Licensed under MIT\n *\n * Released on: December 13, 2021\n */\n/* eslint-disable no-param-reassign */\nfunction isObject(obj) {\n    return (obj !== null &&\n        typeof obj === 'object' &&\n        'constructor' in obj &&\n        obj.constructor === Object);⟪ 1592 characters skipped ⟫n    location: {\n        hash: '',\n        host: '',\n        hostname: '',\n        href: '',\n        origin: '',\n        pathname: '',\n        protocol: '',\n        search: '',\n    },\n    history: {\n        replaceState() { },\n        pushState() { },\n        go() { },\n        back() { },\n    },\n    CustomEvent: function CustomEvent() {\n        return this;\n    },\n    addEventListener() { },\n    removeEventListener() { },\n    getComputedStyle() {\n        return {\n            getPropertyValue() {\n                return '';\n            },\n        };\n    },\n    Image() { },\n    Date() { },\n    screen: {},\n    setTimeout() { },\n    clearTimeout() { },\n    matchMedia() {\n        return {};\n    },\n    requestAnimationFrame(callback) {\n        if (typeof setTimeout === 'undefined') {\n            callback();\n            return null;\n        }\n        return setTimeout(callback, 0);\n    },\n    cancelAnimationFrame(id) {\n        if (typeof setTimeout === 'undefined') {\n            return;\n        }\n        clearTimeout(id);\n    },\n};\nfunction getWindow() {\n    const win = typeof window !== 'undefined' ? window : {};\n    extend(win, ssrWindo⟪ 279379 characters skipped ⟫   updatePagination();\n  });\n  on('destroy', () => {\n    if (!swiper.params.a11y.enabled) return;\n    destroy();\n  });\n}\n","import { getWindow } from 'ssr-window';\n\nexport default function History({ swiper, extendParams, on }) {\n  extendParams({\n    history: {\n      enabled: false,\n      root: '',\n      replaceState: false,\n      key: 'slides',\n      keepQuery: false,\n    },\n  });\n\n  let initialized = false;\n  let paths = {};\n\n  const slugify = (text) => {\n    return text\n      .toString()\n      .replace(/\\s+/g, '-')\n      .replace(/[^\\w-]+/g, '')\n      .replace(/--+/g, '-')\n      .replace(/^-+/, '')\n      .replace(/-+$/, '');\n  };\n\n  const getPathValues = (urlOverride) => {\n    const window = getWindow();\n    let location;\n    if (urlOverride) {\n      location = new URL(urlOverride);\n    } else {\n      location = window.location;\n    }\n    const pathArray = location.pathname\n      .slice(1)\n      .split('/')\n      .filter((part) => part !== '');\n    const total = pathArray.length;\n    const key = pathArray[total - 2];\n    const value = pathArray[total - 1];\n    return { key, value };\n  };\n  const setHistory = (key, index) => {\n    const window = getWindow();\n    if (!initialized || !swiper.params.history.enabled) return;\n    let location;\n    if (swiper.params.url) {\n      location = new URL(swiper.params.url);\n    } else {\n      location = window.location;\n    }\n    const slide = swiper.slides.eq(index);\n    let value = slugify(slide.attr('data-history'));\n    if (swiper.params.history.root.length > 0) {\n      let root = swiper.params.history.root;\n      if (root[root.length - 1] === '/') root = root.slice(0, root.length - 1);\n      value = `${root}/${key}/${value}`;\n    } else if (!location.pathname.includes(key)) {\n      value = `${key}/${value}`;\n    }\n    if (swiper.params.history.keepQuery) {\n      value += location.search;\n    }\n    const currentState = window.history.state;\n    if (currentState && currentState.value === value) {\n      return;\n    }\n    if (swiper.params.history.replaceState) {\n      window.history.replaceState({ value }, null, value);\n    } else {\n      window.history.pushState({ value }, null, value);\n    }\n  };\n\n  const scrollToSlide = (speed, value, runCallbacks) => {\n    if (value) {\n      for (let i = 0, length = swiper.slides.length; i < length; i += 1) {\n        const slide = swiper.slides.eq(i);\n        const slideHistory = slugify(slide.attr('data-history'));\n        if (slideHistory === value && !slide.hasClass(swiper.params.slideDuplicateClass)) {\n          const index = slide.index();\n          swiper.slideTo(index, speed, runCallbacks);\n        }\n      }\n    } else {\n      swiper.slideTo(0, speed, runCallbacks);\n    }\n  };\n\n  const setHistoryPopState = () => {\n    paths = getPathValues(swiper.params.url);\n    scrollToSlide(swiper.params.speed, paths.value, false);\n  };\n\n  const init = () => {\n    const window = getWindow();\n    if (!swiper.params.history) return;\n    if (!window.history || !window.history.pushState) {\n      swiper.params.history.enabled = false;\n      swiper.params.hashNavigation.enabled = true;\n      return;\n    }\n    initialized = true;\n    paths = getPathValues(swiper.params.url);\n    if (!paths.key && !paths.value) return;\n    scrollToSlide(0, paths.value, swiper.params.runCallbacksOnInit);\n    if (!swiper.params.history.replaceState) {\n      window.addEventListener('popstate', setHistoryPopState);\n    }\n  };\n  const destroy = () => {\n    const window = getWindow();\n    if (!swiper.params.history.replaceState) {\n      window.removeEventListener('popstate', setHistoryPopState);\n    }\n  };\n\n  on('init', () => {\n    if (swiper.params.history.enabled) {\n      init();\n    }\n  });\n  on('destroy', () => {\n    if (swiper.params.history.enabled) {\n      destroy();\n    }\n  });\n  on('transitionEnd _freeModeNoMomentumRelease', () => {\n    if (initialized) {\n      setHistory(swiper.params.history.key, swiper.activeIndex);\n    }\n  });\n  on('slideChange', () => {\n    if (initialized && swiper.params.cssMode) {\n      setHistory(swiper.params.history.key, swiper.activeIndex);\n    }\n  });\n}\n","import { getWindow, getDocument } from 'ssr-window';\nimport $ from '../../shared/dom.js';\n\nexport default function HashNavigation({ swiper, extendParams, emit, on }) {\n  let initialized = false;\n  const document = getDocument();\n  const window = getWindow();\n  extendParams({\n    hashNavigation: {\n      enabled: false,\n      replaceState: false,\n      watchState: false,\n    },\n  });\n  const onHashChange = () => {\n    emit('hashChange');\n    const newHash = document.location.hash.replace('#', '');\n    const activeSlideHash = swiper.slides.eq(swiper.activeIndex).attr('data-hash');\n    if (newHash !== activeSlideHash) {\n      const newIndex = swiper.$wrapperEl\n        .children(`.${swiper.params.slideClass}[data-hash=\"${newHash}\"]`)\n        .index();\n      if (typeof newIndex === 'undefined') return;\n      swiper.slideTo(newIndex);\n    }\n  };\n  const setHash = () => {\n    if (!initialized || !swiper.params.hashNavigation.enabled) return;\n    if (\n      swiper.params.hashNavigation.replaceState &&\n      window.history &&\n      window.history.replaceState\n    ) {\n      window.history.replaceState(\n        null,\n        null,\n        `#${swiper.slides.eq(swiper.activeIndex).attr('data-hash')}` || '',\n      );\n      emit('hashSet');\n    } else {\n      const slide = swiper.slides.eq(swiper.activeIndex);\n      const hash = slide.attr('data-hash') || slide.attr('data-history');\n      document.location.hash = hash || '';\n      emit('hashSet');\n    }\n  };\n  const init = () => {\n    if (\n      !swiper.params.hashNavigation.enabled ||\n      (swiper.params.history && swiper.params.history.enabled)\n    )\n      return;\n    initialized = true;\n    const hash = document.location.hash.replace('#', '');\n    if (hash) {\n      const speed = 0;\n      for (let i = 0, length = swiper.slides.length; i < length; i += 1) {\n        const slide = swiper.slides.eq(i);\n        const slideHash = slide.attr('data-hash') || slide.attr('data-history');\n        if (slideHash === hash && !slide.hasClass(swiper.params.slideDuplicateClass)) {\n          const index = slide.index();\n          swiper.slideTo(index, speed, swiper.params.runCallbacksOnInit, true);\n        }\n      }\n    }\n    if (swiper.params.hashNavigation.watchState) {\n      $(window).on('hashchange', onHashChange);\n    }\n  };\n  const destroy = () => {\n    if (swiper.params.hashNavigation.watchState) {\n      $(window).off('hashchange', onHashChange);\n    }\n  };\n\n  on('init', () => {\n    if (swiper.params.hashNavigation.enabled) {\n      init();\n    }\n  });\n  on('destroy', () => {\n    if (swiper.params.hashNavigation.enabled) {\n      destroy();\n    }\n  });\n  on('transitionEnd _freeModeNoMomentumRelease', () => {\n    if (initialized) {\n      setHash();\n    }\n  });\n  on('slideChange', () => {\n    if (initialized && swiper.params.cssMode) {\n      setHash();\n    }\n  });\n}\n","/* eslint no-underscore-dangle: \"off\" */\n/* eslint no-us
